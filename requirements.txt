@@ -1,0 +1,9 @@
+mysql-connector-python==8.0.29
+mysqlclient==2.1.1
+numpy==1.23.1
+pandas==1.4.3
+protobuf==4.21.2
+python-dateugit inittil==2.8.2
+pytz==2022.1
+six==1.16.0
+termtables==0.2.4
